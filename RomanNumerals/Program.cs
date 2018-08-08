@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace RomanNumerals
 {
-    public class Class1
+    public class Program
     {
+        public static void Main(string[] args)
+        {
+
+        }
     }
 }
